@@ -1,0 +1,12 @@
+Package: smco
+Type: Package
+Title: A Simple Monte Carlo Optimizer using Adaptive Coordinate Sampling
+Version: 2024.10-9
+Authors@R: c( person(given = c("John", "C"), family = "Nash", role =
+    c("ctb", "cre"), email = "nashjc@uottawa.ca"), person(given =
+    "Juan David", family = "Velasquez", role = "aut", email =
+    "jdvelasq@unal.edu.co") )
+Description: This package is for optimizing non-linear complex
+        functions based on Monte Carlo random sampling.
+License: GPL (>= 2)
+LazyLoad: yes

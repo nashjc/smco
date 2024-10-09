@@ -1,0 +1,7 @@
+# Default NAMESPACE created by R
+# Remove the previous line if you edit this file
+
+importFrom("stats", "optim", "pnorm", "qnorm", "rnorm", "runif")
+
+# Export all names
+exportPattern(".")
